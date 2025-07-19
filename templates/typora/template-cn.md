@@ -1,6 +1,6 @@
-# 八爪猫
+# 韦宇
 
-> <span alt="icon">&#xe60f;</span> `(123)456-7890`&emsp;&emsp; <span alt="icon">&#xe7ca;</span> `octocat@github.com`&emsp;&emsp; <span alt="icon">&#xe600;</span> [octocat](https://github.com/octocat)
+> <span alt="icon">&#xe60f;</span> `18933549212`&emsp;&emsp; <span alt="icon">&#xe7ca;</span> &emsp;&emsp; <span alt="icon">&#xe600;</span> [octocat](https://github.com/octocat)
 
 <img alt="avatar" src="https://avatars.githubusercontent.com/u/583231?v=4">
 
@@ -19,12 +19,12 @@
     <h3>软件工程师 - 章小鱼有限公司</h3> 
     <p>2008.03 - 2009.07</p>
 </div>
-
+<div>
 作为核心开发成员及技术负责人，主导了八爪生物社交平台（OctoHub）的全栈开发与架构设计。
 
 - 设计并实现独特的"八爪风格"用户交互体系，包括：动态触手消息传递系统、墨水喷溅情感反应功能、自适应伪装个人主页，以促进全球八爪生物和猫之间的社区参与，使用户互动频率提升210%。
 - 集成 OAuth 认证，与 GitHub 账户进行同步，为 Octocat 和其他在 GitHub 上活跃的八爪生物提供无缝登录和个人资料同步，将认证流程耗时从12.8s缩短至2.3s，获选GitHub年度最佳身份集成案例。
-
+</div>
 <div alt="entry-title">
     <h3>软件开发实习生 - 八爪科技</h3> 
     <p>2008.06 - 2008.08</p>
