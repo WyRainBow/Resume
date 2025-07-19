@@ -7,13 +7,16 @@
 ## 教育经历
 
 <div alt="entry-title">
-    <h3>广东药科大学　　　　　　　　计算机科学与技术　　　　　　　　本科　　　　　　　　2022.9-2026.6</h3>
+    <h3>广东药科大学　　　　　　　　计算机科学与技术　　　　　　　　本科　　　　　2022.9-2026.6</h3>
 </div>
 ## 工作经验
 
-<div alt="entry-title">
-    <h3><span style="font-weight: bold; color: #000000;">腾讯云 - 后端开发实习生</span>　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　<span style="font-weight: normal; color: #353a42;">2025.6-至今</span></h3>
-</div>
+<table style="width: 100%; border: none; margin-bottom: 2mm;">
+<tr style="border: none;">
+<td style="border: none; padding: 0; font-weight: bold; font-size: 11pt; color: #2c5aa0;">腾讯云 - 后端开发实习生　　　　　　　　　　　　　　　　　　　　　　　　　　</td>
+<td style="border: none; padding: 0; text-align: right; font-weight: normal; font-size: 11pt; color: #353a42;">2025.6-至今</td>
+</tr>
+</table>
 <div>
 <p><i><b>实习描述:</b> 负责腾讯云域名注册业务的开发，包括像域名的注册、敏感词过滤、续费、用户身份模版认证、域名生命周期的状态管理等。</i></p>
 <p><b>主要工作成果:</b></p>
@@ -23,10 +26,12 @@
 </ul>
 </div>
 
-
-<div alt="entry-title">
-    <h3><span style="font-weight: bold; color: #000000;">美的集团 - 后端开发实习生</span>　　　　　　　　　　　　　　　　　　　　　　　　　　　　<span style="font-weight: normal; color: #353a42;">2024.12-2025.4</span></h3>
-</div>
+<table style="width: 100%; border: none;">
+<tr style="border: none;">
+<td style="border: none; padding: 0; font-weight: bold; font-size: 11pt; color: #2c5aa0;">美的集团 - 后端开发实习生</td>
+<td style="border: none; padding: 0; text-align: right; font-weight: normal; font-size: 11pt; color: #353a42;">2024.12-2025.4</td>
+</tr>
+</table>
 <div>
 <p><i><b>实习描述:</b> 参与开发数据供应链部门APS系统(高级计划与排程系统)，与美的集团iPass(集成化生产管理平台)、以及 MES(制造执行系统)深度集成，实现供应链计划→生产排程→车间执行全链路数据协同。</i></p>
 <p><b>工作职责:</b></p>
